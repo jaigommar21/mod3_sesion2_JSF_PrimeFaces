@@ -2,7 +2,7 @@ package com.tecsup.jsf.bean;
 
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.SessionScoped;
-
+//
 @ManagedBean(name = "operacionBean")
 @SessionScoped
 public class OperacionBean {
